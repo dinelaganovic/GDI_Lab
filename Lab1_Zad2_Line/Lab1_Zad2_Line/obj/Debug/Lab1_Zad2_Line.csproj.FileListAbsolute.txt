@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\bin\Debug\Lab1_Zad2_Line.exe.config
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\bin\Debug\Lab1_Zad2_Line.exe
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\bin\Debug\Lab1_Zad2_Line.pdb
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\obj\Debug\Lab1_Zad2_Line.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\obj\Debug\Lab1_Zad2_Line.Form1.resources
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\obj\Debug\Lab1_Zad2_Line.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\obj\Debug\Lab1_Zad2_Line.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\obj\Debug\Lab1_Zad2_Line.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\obj\Debug\Lab1_Zad2_Line.exe
+C:\Users\PC\source\repos\Lab1_Zad2_Line\Lab1_Zad2_Line\obj\Debug\Lab1_Zad2_Line.pdb
