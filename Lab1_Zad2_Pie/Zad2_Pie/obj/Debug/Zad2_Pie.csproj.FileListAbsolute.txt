@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\bin\Debug\Zad2_Pie.exe.config
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\bin\Debug\Zad2_Pie.exe
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\bin\Debug\Zad2_Pie.pdb
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\obj\Debug\Zad2_Pie.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\obj\Debug\Zad2_Pie.Form1.resources
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\obj\Debug\Zad2_Pie.Properties.Resources.resources
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\obj\Debug\Zad2_Pie.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\obj\Debug\Zad2_Pie.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\obj\Debug\Zad2_Pie.exe
+C:\Users\PC\source\repos\Zad2_Pie\Zad2_Pie\obj\Debug\Zad2_Pie.pdb
