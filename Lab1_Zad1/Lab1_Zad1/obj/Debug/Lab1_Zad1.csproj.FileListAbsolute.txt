@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\bin\Debug\Lab1_Zad1.exe.config
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\bin\Debug\Lab1_Zad1.exe
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\bin\Debug\Lab1_Zad1.pdb
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\obj\Debug\Lab1_Zad1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\obj\Debug\Lab1_Zad1.Form1.resources
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\obj\Debug\Lab1_Zad1.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\obj\Debug\Lab1_Zad1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\obj\Debug\Lab1_Zad1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\obj\Debug\Lab1_Zad1.exe
+C:\Users\PC\source\repos\Lab1_Zad1\Lab1_Zad1\obj\Debug\Lab1_Zad1.pdb
