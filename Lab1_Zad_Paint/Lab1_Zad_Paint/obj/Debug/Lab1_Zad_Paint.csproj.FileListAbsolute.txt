@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\bin\Debug\Lab1_Zad_Paint.exe.config
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\bin\Debug\Lab1_Zad_Paint.exe
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\bin\Debug\Lab1_Zad_Paint.pdb
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.Form1.resources
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.exe
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.pdb
