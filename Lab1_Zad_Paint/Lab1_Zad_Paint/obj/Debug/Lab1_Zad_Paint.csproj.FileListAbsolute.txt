@@ -8,3 +8,4 @@ C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.
 C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.exe
 C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.pdb
+C:\Users\PC\source\repos\Lab1_Zad_Paint\Lab1_Zad_Paint\obj\Debug\Lab1_Zad_Paint.Stranica2.resources
