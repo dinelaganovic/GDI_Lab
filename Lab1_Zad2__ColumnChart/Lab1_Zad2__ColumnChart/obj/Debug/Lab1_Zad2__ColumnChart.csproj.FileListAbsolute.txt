@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\bin\Debug\Lab1_Zad2__ColumnChart.exe.config
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\bin\Debug\Lab1_Zad2__ColumnChart.exe
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\bin\Debug\Lab1_Zad2__ColumnChart.pdb
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\obj\Debug\Lab1_Zad2__ColumnChart.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\obj\Debug\Lab1_Zad2__ColumnChart.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\obj\Debug\Lab1_Zad2__ColumnChart.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\obj\Debug\Lab1_Zad2__ColumnChart.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\obj\Debug\Lab1_Zad2__ColumnChart.exe
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\obj\Debug\Lab1_Zad2__ColumnChart.pdb
+C:\Users\PC\source\repos\Lab1_Zad2__ColumnChart\Lab1_Zad2__ColumnChart\obj\Debug\Lab1_Zad2__ColumnChart.Chart.resources
