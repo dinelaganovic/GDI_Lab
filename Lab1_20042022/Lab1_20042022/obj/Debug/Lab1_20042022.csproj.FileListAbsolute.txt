@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\bin\Debug\Lab1_20042022.exe.config
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\bin\Debug\Lab1_20042022.exe
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\bin\Debug\Lab1_20042022.pdb
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\obj\Debug\Lab1_20042022.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\obj\Debug\Lab1_20042022.Temperature.resources
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\obj\Debug\Lab1_20042022.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\obj\Debug\Lab1_20042022.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\obj\Debug\Lab1_20042022.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\obj\Debug\Lab1_20042022.exe
+C:\Users\PC\source\repos\Lab1_20042022\Lab1_20042022\obj\Debug\Lab1_20042022.pdb
